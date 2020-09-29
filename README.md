@@ -14,3 +14,5 @@ https://scipython.com/book/chapter-6-numpy/examples/creating-a-rotation-matrix-i
 https://matthew-brett.github.io/teaching/rotation_2d.html
 
 
+## LyleScott/rotate_2d_point.py
+https://gist.github.com/LyleScott/e36e08bfb23b1f87af68c9051f985302
